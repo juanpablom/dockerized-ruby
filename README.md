@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # dockerized-ruby
+https://docs.docker.com/compose/rails/
